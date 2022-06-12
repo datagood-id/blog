@@ -1,5 +1,1 @@
-Here you can say lots of fun things about your site.
-
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+Halaman ini merupakan blog yang disiapkan untuk membuat tulisan selama proses koding DataGood ID. 
