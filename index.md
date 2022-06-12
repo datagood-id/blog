@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+##  Selamat datang di blog DataGood ID 
 
-You can use the [editor on GitHub](https://github.com/datagood-id/blog/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Blog ini merupakan hasil berbagi bagaimana menulis kode untuk ilmu data dalam ilmu sosial.
 
 ### Markdown
 
